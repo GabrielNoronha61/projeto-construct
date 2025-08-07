@@ -22,11 +22,20 @@
 		"items": [
 			"Layout 1"
 		],
-		"subfolders": []
+		"subfolders": [
+			{
+				"items": [
+					"Menu Principal"
+				],
+				"subfolders": [],
+				"name": "Gabriel"
+			}
+		]
 	},
 	"eventSheets": {
 		"items": [
-			"Folha de eventos 1"
+			"Folha de eventos 1",
+			"Folha de eventos 2"
 		],
 		"subfolders": []
 	},
